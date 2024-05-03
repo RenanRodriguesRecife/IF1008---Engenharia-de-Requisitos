@@ -2,6 +2,9 @@
 
 Avaliação: tem um projeto de documentação + apresentação (todo mundo da equipe)
 
+cada técnica deve ser aplicada no projeto
+seminários - artigos científicos para apresentar
+
 - Apresentação da disciplina + Introdução à Engenharia de Requisitos
 - Introdução a Elicitação de Requisitos - Formação de equipes
 - Técnicas de Elicitação de Requisitos
@@ -28,3 +31,9 @@ Avaliação: tem um projeto de documentação + apresentação (todo mundo da eq
 - Desenvolvimento Dirigido por Comportamento - BDD - especificação de cenários de teste de aceitação para as user stories.
 - Gerenciamento de Requisitos
 - Apresentação do estudo de viabilidade - Equipes
+
+Obs: tem coisas que estão nos livros e tem coisas que estão em artigos.
+
+Antes de 5 de maio as equipes e projetos devem está encominhados
+
+14:00
