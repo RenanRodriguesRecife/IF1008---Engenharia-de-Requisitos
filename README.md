@@ -37,3 +37,21 @@ Obs: tem coisas que estão nos livros e tem coisas que estão em artigos.
 Antes de 5 de maio as equipes e projetos devem está encominhados
 
 14:00
+
+Engenharia de Requisitos
+
+- Requisitos: Características funcionais e não funcionais
+
+funcional - é o serviço (as funções de serviço)
+não funcional - é a qualidade do serviço
+
+- requisitos organizacionais: que dizem a respeito as metas da empresa
+
+- Estudo de viabilidade: 4 tipos: economica, téquina
+
+- Requisitos: Define o que é solicitado ao sistema fazer e quais as limitações/restrições ele é requisitado a operar
+
+
+Avaliação: criar artefatos (etapas) documento + apresentação unitário (artigos científicos para a equipe apresentar)
+
+
